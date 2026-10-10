@@ -2,6 +2,16 @@
 
 ![Dashboard Preview](dashboard_preview.png)
 
+## Start here
+
+- [Python preparation notebook](customer_behavior_analysis.ipynb)
+- [Ten SQL business questions](customer_behavior_analysis.sql)
+- [Power BI dashboard](customer_behavior_analysis.pbix)
+- [Project report](Customer%20Shopping%20Behavior%20Analysis.pdf)
+- [Business problem](Business%20Problem%20%20Document.pdf)
+
+This is a portfolio analysis. The comparisons describe this dataset; they do not establish that discounts or subscriptions caused a purchase.
+
 ---
 
 # 📌 Project Overview
@@ -152,7 +162,7 @@ Built an interactive Power BI dashboard to visualise:
 📌 Young adults generated the highest revenue contribution.  
 📌 Loyal customers formed the majority customer segment.  
 📌 Subscription users showed strong repeat purchase behaviour.  
-📌 Discounts significantly influenced product purchases.  
+📌 Discount usage was explored alongside product purchases; a causal effect was not established.  
 
 ---
 
@@ -176,7 +186,7 @@ customer-shopping-behavior-analysis/
 ├── customer_behavior_analysis.pbix
 ├── customer_shopping_behavior.csv
 ├── Customer Shopping Behavior Analysis.pdf
-├── Business Problem Document.pdf
+├── Business Problem  Document.pdf
 ├── dashboard_preview.png
 └── README.md
 ```
@@ -192,7 +202,7 @@ customer-shopping-behavior-analysis/
 | customer_behavior_analysis.pbix | Interactive Power BI dashboard |
 | customer_shopping_behavior.csv | Dataset used for analysis |
 | Customer Shopping Behavior Analysis.pdf | Final project report |
-| Business Problem Document.pdf | Original business problem statement |
+| Business Problem  Document.pdf | Original business problem statement |
 
 ---
 
@@ -225,7 +235,7 @@ The analysis helps businesses better understand customer purchasing behaviour an
 
 ### 🌐 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/sourav-mukherjee-03566a296
+- 🔗 LinkedIn: https://www.linkedin.com/in/mukherjeesourav687/
 - 💻 GitHub: https://github.com/mukherjeesourav687
 - ✍️ Medium: https://medium.com/@mukherjeesourav687
 
